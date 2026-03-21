@@ -5,5 +5,3 @@ I’m a motivated and enthusiastic person who enjoys learning new things and imp
 Apart from academics, I enjoy exploring new technologies, building small projects, and practicing coding, which helps me stay creative and continuously improve.
 
 My goal is to grow as a software developer and contribute to building useful and impactful applications while constantly learning and upgrading my skills.
-
-Thank you for giving me this opportunity to introduce myself.
